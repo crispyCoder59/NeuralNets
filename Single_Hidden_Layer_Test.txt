@@ -1,0 +1,716 @@
+-------One Hidden Layer Test-------
+Running with learning_rate: 3.0
+Running with epochs: 50
+Running with mini_batch: 10
+Running with neurons:
+784
+4
+10
+Starting Program...
+Epoch 0: 4047 / 10000
+Epoch 1: 5333 / 10000
+Epoch 2: 5369 / 10000
+Epoch 3: 5435 / 10000
+Epoch 4: 5358 / 10000
+Epoch 5: 5553 / 10000
+Epoch 6: 5497 / 10000
+Epoch 7: 5371 / 10000
+Epoch 8: 5515 / 10000
+Epoch 9: 5492 / 10000
+Epoch 10: 5451 / 10000
+Epoch 11: 5515 / 10000
+Epoch 12: 5498 / 10000
+Epoch 13: 5428 / 10000
+Epoch 14: 5478 / 10000
+Epoch 15: 5560 / 10000
+Epoch 16: 5499 / 10000
+Epoch 17: 5510 / 10000
+Epoch 18: 5496 / 10000
+Epoch 19: 5532 / 10000
+Epoch 20: 5471 / 10000
+Epoch 21: 5409 / 10000
+Epoch 22: 5563 / 10000
+Epoch 23: 5556 / 10000
+Epoch 24: 5661 / 10000
+Epoch 25: 5442 / 10000
+Epoch 26: 5517 / 10000
+Epoch 27: 5475 / 10000
+Epoch 28: 5460 / 10000
+Epoch 29: 5466 / 10000
+Epoch 30: 5632 / 10000
+Epoch 31: 5471 / 10000
+Epoch 32: 5668 / 10000
+Epoch 33: 5404 / 10000
+Epoch 34: 5529 / 10000
+Epoch 35: 5511 / 10000
+Epoch 36: 5552 / 10000
+Epoch 37: 5650 / 10000
+Epoch 38: 5444 / 10000
+Epoch 39: 5431 / 10000
+Epoch 40: 5480 / 10000
+Epoch 41: 5430 / 10000
+Epoch 42: 5505 / 10000
+Epoch 43: 5528 / 10000
+Epoch 44: 5511 / 10000
+Epoch 45: 5483 / 10000
+Epoch 46: 5570 / 10000
+Epoch 47: 5483 / 10000
+Epoch 48: 5513 / 10000
+Epoch 49: 5435 / 10000
+duration = 235.9854233264923
+Running with learning_rate: 3.0
+Running with epochs: 50
+Running with mini_batch: 10
+Running with neurons:
+784
+5
+10
+Starting Program...
+Epoch 0: 7018 / 10000
+Epoch 1: 7013 / 10000
+Epoch 2: 7130 / 10000
+Epoch 3: 7056 / 10000
+Epoch 4: 7132 / 10000
+Epoch 5: 7133 / 10000
+Epoch 6: 7103 / 10000
+Epoch 7: 6970 / 10000
+Epoch 8: 6984 / 10000
+Epoch 9: 7100 / 10000
+Epoch 10: 7179 / 10000
+Epoch 11: 7184 / 10000
+Epoch 12: 7126 / 10000
+Epoch 13: 7159 / 10000
+Epoch 14: 7146 / 10000
+Epoch 15: 7042 / 10000
+Epoch 16: 7156 / 10000
+Epoch 17: 7148 / 10000
+Epoch 18: 7144 / 10000
+Epoch 19: 6977 / 10000
+Epoch 20: 7026 / 10000
+Epoch 21: 6995 / 10000
+Epoch 22: 7163 / 10000
+Epoch 23: 7022 / 10000
+Epoch 24: 7177 / 10000
+Epoch 25: 6932 / 10000
+Epoch 26: 7127 / 10000
+Epoch 27: 7058 / 10000
+Epoch 28: 7047 / 10000
+Epoch 29: 7070 / 10000
+Epoch 30: 7054 / 10000
+Epoch 31: 7063 / 10000
+Epoch 32: 7152 / 10000
+Epoch 33: 7090 / 10000
+Epoch 34: 7143 / 10000
+Epoch 35: 7051 / 10000
+Epoch 36: 7171 / 10000
+Epoch 37: 7146 / 10000
+Epoch 38: 7027 / 10000
+Epoch 39: 7188 / 10000
+Epoch 40: 7111 / 10000
+Epoch 41: 7068 / 10000
+Epoch 42: 7031 / 10000
+Epoch 43: 7032 / 10000
+Epoch 44: 7154 / 10000
+Epoch 45: 7020 / 10000
+Epoch 46: 7072 / 10000
+Epoch 47: 7045 / 10000
+Epoch 48: 7142 / 10000
+Epoch 49: 7150 / 10000
+duration = 243.26710510253906
+Running with learning_rate: 3.0
+Running with epochs: 50
+Running with mini_batch: 10
+Running with neurons:
+784
+6
+10
+Starting Program...
+Epoch 0: 7694 / 10000
+Epoch 1: 8629 / 10000
+Epoch 2: 8733 / 10000
+Epoch 3: 8761 / 10000
+Epoch 4: 8787 / 10000
+Epoch 5: 8793 / 10000
+Epoch 6: 8776 / 10000
+Epoch 7: 8840 / 10000
+Epoch 8: 8837 / 10000
+Epoch 9: 8846 / 10000
+Epoch 10: 8861 / 10000
+Epoch 11: 8863 / 10000
+Epoch 12: 8773 / 10000
+Epoch 13: 8846 / 10000
+Epoch 14: 8848 / 10000
+Epoch 15: 8848 / 10000
+Epoch 16: 8882 / 10000
+Epoch 17: 8905 / 10000
+Epoch 18: 8911 / 10000
+Epoch 19: 8865 / 10000
+Epoch 20: 8866 / 10000
+Epoch 21: 8832 / 10000
+Epoch 22: 8858 / 10000
+Epoch 23: 8871 / 10000
+Epoch 24: 8906 / 10000
+Epoch 25: 8870 / 10000
+Epoch 26: 8857 / 10000
+Epoch 27: 8865 / 10000
+Epoch 28: 8928 / 10000
+Epoch 29: 8935 / 10000
+Epoch 30: 8891 / 10000
+Epoch 31: 8876 / 10000
+Epoch 32: 8914 / 10000
+Epoch 33: 8927 / 10000
+Epoch 34: 8949 / 10000
+Epoch 35: 8852 / 10000
+Epoch 36: 8935 / 10000
+Epoch 37: 8882 / 10000
+Epoch 38: 8859 / 10000
+Epoch 39: 8935 / 10000
+Epoch 40: 8927 / 10000
+Epoch 41: 8918 / 10000
+Epoch 42: 8863 / 10000
+Epoch 43: 8916 / 10000
+Epoch 44: 8926 / 10000
+Epoch 45: 8951 / 10000
+Epoch 46: 8909 / 10000
+Epoch 47: 8928 / 10000
+Epoch 48: 8902 / 10000
+Epoch 49: 8932 / 10000
+duration = 249.20948123931885
+Running with learning_rate: 3.0
+Running with epochs: 50
+Running with mini_batch: 10
+Running with neurons:
+784
+7
+10
+Starting Program...
+Epoch 0: 7747 / 10000
+Epoch 1: 7735 / 10000
+Epoch 2: 7751 / 10000
+Epoch 3: 7819 / 10000
+Epoch 4: 8016 / 10000
+Epoch 5: 8333 / 10000
+Epoch 6: 8620 / 10000
+Epoch 7: 8644 / 10000
+Epoch 8: 8732 / 10000
+Epoch 9: 8723 / 10000
+Epoch 10: 8710 / 10000
+Epoch 11: 8821 / 10000
+Epoch 12: 8870 / 10000
+Epoch 13: 8836 / 10000
+Epoch 14: 8899 / 10000
+Epoch 15: 8892 / 10000
+Epoch 16: 8870 / 10000
+Epoch 17: 8954 / 10000
+Epoch 18: 8888 / 10000
+Epoch 19: 8933 / 10000
+Epoch 20: 8954 / 10000
+Epoch 21: 8900 / 10000
+Epoch 22: 8973 / 10000
+Epoch 23: 8889 / 10000
+Epoch 24: 8968 / 10000
+Epoch 25: 8961 / 10000
+Epoch 26: 8982 / 10000
+Epoch 27: 9004 / 10000
+Epoch 28: 8976 / 10000
+Epoch 29: 8983 / 10000
+Epoch 30: 8962 / 10000
+Epoch 31: 8997 / 10000
+Epoch 32: 8961 / 10000
+Epoch 33: 8991 / 10000
+Epoch 34: 9003 / 10000
+Epoch 35: 8970 / 10000
+Epoch 36: 8999 / 10000
+Epoch 37: 9051 / 10000
+Epoch 38: 8998 / 10000
+Epoch 39: 8956 / 10000
+Epoch 40: 9068 / 10000
+Epoch 41: 9045 / 10000
+Epoch 42: 8932 / 10000
+Epoch 43: 8992 / 10000
+Epoch 44: 9044 / 10000
+Epoch 45: 9033 / 10000
+Epoch 46: 9026 / 10000
+Epoch 47: 8967 / 10000
+Epoch 48: 9043 / 10000
+Epoch 49: 8987 / 10000
+duration = 255.68031859397888
+Running with learning_rate: 3.0
+Running with epochs: 50
+Running with mini_batch: 10
+Running with neurons:
+784
+8
+10
+Starting Program...
+Epoch 0: 8585 / 10000
+Epoch 1: 8800 / 10000
+Epoch 2: 8827 / 10000
+Epoch 3: 8779 / 10000
+Epoch 4: 8888 / 10000
+Epoch 5: 8847 / 10000
+Epoch 6: 8892 / 10000
+Epoch 7: 8861 / 10000
+Epoch 8: 8859 / 10000
+Epoch 9: 8881 / 10000
+Epoch 10: 8934 / 10000
+Epoch 11: 8936 / 10000
+Epoch 12: 8912 / 10000
+Epoch 13: 8978 / 10000
+Epoch 14: 8956 / 10000
+Epoch 15: 8935 / 10000
+Epoch 16: 8977 / 10000
+Epoch 17: 8929 / 10000
+Epoch 18: 8976 / 10000
+Epoch 19: 8948 / 10000
+Epoch 20: 9016 / 10000
+Epoch 21: 9012 / 10000
+Epoch 22: 8977 / 10000
+Epoch 23: 8979 / 10000
+Epoch 24: 9001 / 10000
+Epoch 25: 9003 / 10000
+Epoch 26: 8995 / 10000
+Epoch 27: 8977 / 10000
+Epoch 28: 9016 / 10000
+Epoch 29: 8977 / 10000
+Epoch 30: 9004 / 10000
+Epoch 31: 9004 / 10000
+Epoch 32: 8976 / 10000
+Epoch 33: 8998 / 10000
+Epoch 34: 9009 / 10000
+Epoch 35: 9011 / 10000
+Epoch 36: 8975 / 10000
+Epoch 37: 9011 / 10000
+Epoch 38: 9003 / 10000
+Epoch 39: 8967 / 10000
+Epoch 40: 9016 / 10000
+Epoch 41: 8981 / 10000
+Epoch 42: 9023 / 10000
+Epoch 43: 9027 / 10000
+Epoch 44: 9012 / 10000
+Epoch 45: 9023 / 10000
+Epoch 46: 9006 / 10000
+Epoch 47: 9021 / 10000
+Epoch 48: 9021 / 10000
+Epoch 49: 8996 / 10000
+duration = 259.7026526927948
+Running with learning_rate: 3.0
+Running with epochs: 50
+Running with mini_batch: 10
+Running with neurons:
+784
+9
+10
+Starting Program...
+Epoch 0: 8615 / 10000
+Epoch 1: 8836 / 10000
+Epoch 2: 8891 / 10000
+Epoch 3: 8898 / 10000
+Epoch 4: 8989 / 10000
+Epoch 5: 9006 / 10000
+Epoch 6: 8989 / 10000
+Epoch 7: 8994 / 10000
+Epoch 8: 9093 / 10000
+Epoch 9: 9039 / 10000
+Epoch 10: 9101 / 10000
+Epoch 11: 9076 / 10000
+Epoch 12: 9087 / 10000
+Epoch 13: 9104 / 10000
+Epoch 14: 9051 / 10000
+Epoch 15: 9001 / 10000
+Epoch 16: 9122 / 10000
+Epoch 17: 9167 / 10000
+Epoch 18: 9092 / 10000
+Epoch 19: 9072 / 10000
+Epoch 20: 9090 / 10000
+Epoch 21: 9148 / 10000
+Epoch 22: 9070 / 10000
+Epoch 23: 9116 / 10000
+Epoch 24: 9079 / 10000
+Epoch 25: 9170 / 10000
+Epoch 26: 9097 / 10000
+Epoch 27: 9096 / 10000
+Epoch 28: 9123 / 10000
+Epoch 29: 9132 / 10000
+Epoch 30: 9137 / 10000
+Epoch 31: 9146 / 10000
+Epoch 32: 9141 / 10000
+Epoch 33: 9115 / 10000
+Epoch 34: 9163 / 10000
+Epoch 35: 9150 / 10000
+Epoch 36: 9138 / 10000
+Epoch 37: 9148 / 10000
+Epoch 38: 8997 / 10000
+Epoch 39: 9148 / 10000
+Epoch 40: 9072 / 10000
+Epoch 41: 9140 / 10000
+Epoch 42: 9185 / 10000
+Epoch 43: 9156 / 10000
+Epoch 44: 9160 / 10000
+Epoch 45: 9153 / 10000
+Epoch 46: 9080 / 10000
+Epoch 47: 9170 / 10000
+Epoch 48: 9123 / 10000
+Epoch 49: 9144 / 10000
+duration = 266.3596658706665
+Running with learning_rate: 3.0
+Running with epochs: 50
+Running with mini_batch: 10
+Running with neurons:
+784
+10
+10
+Starting Program...
+Epoch 0: 8562 / 10000
+Epoch 1: 8860 / 10000
+Epoch 2: 9050 / 10000
+Epoch 3: 9072 / 10000
+Epoch 4: 9115 / 10000
+Epoch 5: 9058 / 10000
+Epoch 6: 9081 / 10000
+Epoch 7: 9168 / 10000
+Epoch 8: 9149 / 10000
+Epoch 9: 9179 / 10000
+Epoch 10: 9152 / 10000
+Epoch 11: 9064 / 10000
+Epoch 12: 9163 / 10000
+Epoch 13: 9151 / 10000
+Epoch 14: 9157 / 10000
+Epoch 15: 9195 / 10000
+Epoch 16: 9134 / 10000
+Epoch 17: 9175 / 10000
+Epoch 18: 9168 / 10000
+Epoch 19: 9012 / 10000
+Epoch 20: 9175 / 10000
+Epoch 21: 9216 / 10000
+Epoch 22: 9201 / 10000
+Epoch 23: 9181 / 10000
+Epoch 24: 9155 / 10000
+Epoch 25: 9193 / 10000
+Epoch 26: 9200 / 10000
+Epoch 27: 9193 / 10000
+Epoch 28: 9199 / 10000
+Epoch 29: 9207 / 10000
+Epoch 30: 9201 / 10000
+Epoch 31: 9203 / 10000
+Epoch 32: 9174 / 10000
+Epoch 33: 9189 / 10000
+Epoch 34: 9209 / 10000
+Epoch 35: 9234 / 10000
+Epoch 36: 9179 / 10000
+Epoch 37: 9238 / 10000
+Epoch 38: 9157 / 10000
+Epoch 39: 9200 / 10000
+Epoch 40: 9211 / 10000
+Epoch 41: 9229 / 10000
+Epoch 42: 9207 / 10000
+Epoch 43: 9214 / 10000
+Epoch 44: 9198 / 10000
+Epoch 45: 9201 / 10000
+Epoch 46: 9221 / 10000
+Epoch 47: 9212 / 10000
+Epoch 48: 9200 / 10000
+Epoch 49: 9187 / 10000
+duration = 277.5789895057678
+Running with learning_rate: 3.0
+Running with epochs: 50
+Running with mini_batch: 10
+Running with neurons:
+784
+20
+10
+Starting Program...
+Epoch 0: 9006 / 10000
+Epoch 1: 9219 / 10000
+Epoch 2: 9276 / 10000
+Epoch 3: 9307 / 10000
+Epoch 4: 9341 / 10000
+Epoch 5: 9299 / 10000
+Epoch 6: 9377 / 10000
+Epoch 7: 9337 / 10000
+Epoch 8: 9379 / 10000
+Epoch 9: 9337 / 10000
+Epoch 10: 9361 / 10000
+Epoch 11: 9387 / 10000
+Epoch 12: 9381 / 10000
+Epoch 13: 9359 / 10000
+Epoch 14: 9375 / 10000
+Epoch 15: 9391 / 10000
+Epoch 16: 9378 / 10000
+Epoch 17: 9361 / 10000
+Epoch 18: 9375 / 10000
+Epoch 19: 9356 / 10000
+Epoch 20: 9386 / 10000
+Epoch 21: 9401 / 10000
+Epoch 22: 9396 / 10000
+Epoch 23: 9395 / 10000
+Epoch 24: 9354 / 10000
+Epoch 25: 9382 / 10000
+Epoch 26: 9373 / 10000
+Epoch 27: 9391 / 10000
+Epoch 28: 9373 / 10000
+Epoch 29: 9379 / 10000
+Epoch 30: 9362 / 10000
+Epoch 31: 9391 / 10000
+Epoch 32: 9387 / 10000
+Epoch 33: 9378 / 10000
+Epoch 34: 9382 / 10000
+Epoch 35: 9381 / 10000
+Epoch 36: 9375 / 10000
+Epoch 37: 9382 / 10000
+Epoch 38: 9389 / 10000
+Epoch 39: 9367 / 10000
+Epoch 40: 9351 / 10000
+Epoch 41: 9382 / 10000
+Epoch 42: 9396 / 10000
+Epoch 43: 9384 / 10000
+Epoch 44: 9377 / 10000
+Epoch 45: 9387 / 10000
+Epoch 46: 9386 / 10000
+Epoch 47: 9371 / 10000
+Epoch 48: 9410 / 10000
+Epoch 49: 9387 / 10000
+duration = 319.7180223464966
+Running with learning_rate: 3.0
+Running with epochs: 50
+Running with mini_batch: 10
+Running with neurons:
+784
+30
+10
+Starting Program...
+Epoch 0: 8361 / 10000
+Epoch 1: 9213 / 10000
+Epoch 2: 9302 / 10000
+Epoch 3: 9315 / 10000
+Epoch 4: 9296 / 10000
+Epoch 5: 9352 / 10000
+Epoch 6: 9403 / 10000
+Epoch 7: 9419 / 10000
+Epoch 8: 9409 / 10000
+Epoch 9: 9436 / 10000
+Epoch 10: 9410 / 10000
+Epoch 11: 9431 / 10000
+Epoch 12: 9435 / 10000
+Epoch 13: 9430 / 10000
+Epoch 14: 9469 / 10000
+Epoch 15: 9464 / 10000
+Epoch 16: 9473 / 10000
+Epoch 17: 9479 / 10000
+Epoch 18: 9482 / 10000
+Epoch 19: 9473 / 10000
+Epoch 20: 9467 / 10000
+Epoch 21: 9465 / 10000
+Epoch 22: 9481 / 10000
+Epoch 23: 9505 / 10000
+Epoch 24: 9490 / 10000
+Epoch 25: 9506 / 10000
+Epoch 26: 9506 / 10000
+Epoch 27: 9506 / 10000
+Epoch 28: 9515 / 10000
+Epoch 29: 9476 / 10000
+Epoch 30: 9516 / 10000
+Epoch 31: 9509 / 10000
+Epoch 32: 9508 / 10000
+Epoch 33: 9500 / 10000
+Epoch 34: 9531 / 10000
+Epoch 35: 9522 / 10000
+Epoch 36: 9505 / 10000
+Epoch 37: 9518 / 10000
+Epoch 38: 9487 / 10000
+Epoch 39: 9520 / 10000
+Epoch 40: 9500 / 10000
+Epoch 41: 9513 / 10000
+Epoch 42: 9532 / 10000
+Epoch 43: 9529 / 10000
+Epoch 44: 9512 / 10000
+Epoch 45: 9516 / 10000
+Epoch 46: 9506 / 10000
+Epoch 47: 9524 / 10000
+Epoch 48: 9523 / 10000
+Epoch 49: 9513 / 10000
+duration = 366.92595958709717
+Running with learning_rate: 3.0
+Running with epochs: 50
+Running with mini_batch: 10
+Running with neurons:
+784
+40
+10
+Starting Program...
+Epoch 0: 9111 / 10000
+Epoch 1: 9275 / 10000
+Epoch 2: 9338 / 10000
+Epoch 3: 9369 / 10000
+Epoch 4: 9421 / 10000
+Epoch 5: 9460 / 10000
+Epoch 6: 9474 / 10000
+Epoch 7: 9526 / 10000
+Epoch 8: 9500 / 10000
+Epoch 9: 9507 / 10000
+Epoch 10: 9490 / 10000
+Epoch 11: 9497 / 10000
+Epoch 12: 9514 / 10000
+Epoch 13: 9522 / 10000
+Epoch 14: 9526 / 10000
+Epoch 15: 9523 / 10000
+Epoch 16: 9529 / 10000
+Epoch 17: 9525 / 10000
+Epoch 18: 9537 / 10000
+Epoch 19: 9518 / 10000
+Epoch 20: 9543 / 10000
+Epoch 21: 9532 / 10000
+Epoch 22: 9557 / 10000
+Epoch 23: 9563 / 10000
+Epoch 24: 9557 / 10000
+Epoch 25: 9540 / 10000
+Epoch 26: 9554 / 10000
+Epoch 27: 9553 / 10000
+Epoch 28: 9568 / 10000
+Epoch 29: 9554 / 10000
+Epoch 30: 9557 / 10000
+Epoch 31: 9566 / 10000
+Epoch 32: 9550 / 10000
+Epoch 33: 9545 / 10000
+Epoch 34: 9561 / 10000
+Epoch 35: 9566 / 10000
+Epoch 36: 9556 / 10000
+Epoch 37: 9563 / 10000
+Epoch 38: 9549 / 10000
+Epoch 39: 9555 / 10000
+Epoch 40: 9566 / 10000
+Epoch 41: 9551 / 10000
+Epoch 42: 9541 / 10000
+Epoch 43: 9544 / 10000
+Epoch 44: 9570 / 10000
+Epoch 45: 9554 / 10000
+Epoch 46: 9561 / 10000
+Epoch 47: 9562 / 10000
+Epoch 48: 9573 / 10000
+Epoch 49: 9563 / 10000
+duration = 413.50806617736816
+Running with learning_rate: 3.0
+Running with epochs: 50
+Running with mini_batch: 10
+Running with neurons:
+784
+50
+10
+Starting Program...
+Epoch 0: 9093 / 10000
+Epoch 1: 9296 / 10000
+Epoch 2: 9340 / 10000
+Epoch 3: 9414 / 10000
+Epoch 4: 9486 / 10000
+Epoch 5: 9519 / 10000
+Epoch 6: 9516 / 10000
+Epoch 7: 9543 / 10000
+Epoch 8: 9544 / 10000
+Epoch 9: 9581 / 10000
+Epoch 10: 9561 / 10000
+Epoch 11: 9610 / 10000
+Epoch 12: 9588 / 10000
+Epoch 13: 9585 / 10000
+Epoch 14: 9590 / 10000
+Epoch 15: 9607 / 10000
+Epoch 16: 9614 / 10000
+Epoch 17: 9603 / 10000
+Epoch 18: 9619 / 10000
+Epoch 19: 9592 / 10000
+Epoch 20: 9601 / 10000
+Epoch 21: 9619 / 10000
+Epoch 22: 9617 / 10000
+Epoch 23: 9609 / 10000
+Epoch 24: 9610 / 10000
+Epoch 25: 9614 / 10000
+Epoch 26: 9618 / 10000
+Epoch 27: 9624 / 10000
+Epoch 28: 9631 / 10000
+Epoch 29: 9625 / 10000
+Epoch 30: 9619 / 10000
+Epoch 31: 9632 / 10000
+Epoch 32: 9620 / 10000
+Epoch 33: 9613 / 10000
+Epoch 34: 9624 / 10000
+Epoch 35: 9615 / 10000
+Epoch 36: 9631 / 10000
+Epoch 37: 9628 / 10000
+Epoch 38: 9629 / 10000
+Epoch 39: 9620 / 10000
+Epoch 40: 9617 / 10000
+Epoch 41: 9615 / 10000
+Epoch 42: 9623 / 10000
+Epoch 43: 9619 / 10000
+Epoch 44: 9630 / 10000
+Epoch 45: 9623 / 10000
+Epoch 46: 9628 / 10000
+Epoch 47: 9635 / 10000
+Epoch 48: 9622 / 10000
+Epoch 49: 9626 / 10000
+duration = 476.2222628593445
+Running with learning_rate: 3.0
+Running with epochs: 50
+Running with mini_batch: 10
+Running with neurons:
+784
+100
+10
+Running with learning_rate: 3.0
+Running with epochs: 50
+Running with mini_batch: 10
+Running with neurons:
+784
+300
+10
+Starting Program...
+Epoch 0: 4818 / 10000
+Epoch 1: 4880 / 10000
+Epoch 2: 6049 / 10000
+Epoch 3: 6871 / 10000
+Epoch 4: 6872 / 10000
+Epoch 5: 6917 / 10000
+Epoch 6: 7038 / 10000
+Epoch 7: 7778 / 10000
+Epoch 8: 7796 / 10000
+Epoch 9: 7879 / 10000
+Epoch 10: 7821 / 10000
+Epoch 11: 7866 / 10000
+Epoch 12: 7863 / 10000
+Epoch 13: 7883 / 10000
+Epoch 14: 7886 / 10000
+Epoch 15: 7907 / 10000
+Epoch 16: 7878 / 10000
+Epoch 17: 7864 / 10000
+Epoch 18: 7917 / 10000
+Epoch 19: 7902 / 10000
+Epoch 20: 7900 / 10000
+Epoch 21: 7881 / 10000
+Epoch 22: 7890 / 10000
+Epoch 23: 7910 / 10000
+Epoch 24: 7915 / 10000
+Epoch 25: 7909 / 10000
+Epoch 26: 7908 / 10000
+Epoch 27: 7899 / 10000
+Epoch 28: 7906 / 10000
+Epoch 29: 7911 / 10000
+Epoch 30: 7918 / 10000
+Epoch 31: 7915 / 10000
+Epoch 32: 7916 / 10000
+Epoch 33: 7915 / 10000
+Epoch 34: 7911 / 10000
+Epoch 35: 7903 / 10000
+Epoch 36: 7913 / 10000
+Epoch 37: 7916 / 10000
+Epoch 38: 7911 / 10000
+Epoch 39: 7918 / 10000
+Epoch 40: 7916 / 10000
+Epoch 41: 7910 / 10000
+Epoch 42: 7915 / 10000
+Epoch 43: 7913 / 10000
+Epoch 44: 7916 / 10000
+Epoch 45: 7912 / 10000
+Epoch 46: 7914 / 10000
+Epoch 47: 7909 / 10000
+Epoch 48: 7910 / 10000
+Epoch 49: 7915 / 10000
+duration = 10406.042091846466
